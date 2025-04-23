@@ -1,6 +1,8 @@
 # A Third-Party Analysis of the AASL Standards
 **Partnered client**: American Association of School Librarians (AASL)
+
 **Course**: University of Michigan, School of Information —— MSI Mastery Course (SI 699)
+
 **Authors**: Yujia Gao, Jinren Yuan
 
 ## Introduction
